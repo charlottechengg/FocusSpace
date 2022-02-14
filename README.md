@@ -1,4 +1,4 @@
-# FocusSpace :trophy: ElleHacks2022 - (Telus) First Place Winner 
+# FocusSpace :trophy: ElleHacks2022 - (Telus) First Place 
 
 ## :woman: Developers
 Manyi Cheng(@manyicheng), Senni Tan(@senni0418)
