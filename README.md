@@ -4,7 +4,7 @@
 Manyi Cheng(@manyicheng), Senni Tan(@senni0418)
 
 ## :star: Inspiration
-The covid pandemic significantly changed our lifestyle, with the majority of our work transition to online. People in our community face a slew of new challenges due to the pandemic situation. Procrastination, diminished collaboration, and overworking have emerged as challenges. Study shows that  remote employees work longer hours and spend more time communicating. Approximately 70% of remote professionals now work on weekends, and 45% regularly work more hours during the week than they had before.
+The covid pandemic significantly changed our lifestyle, with the majority of our work transition to online. People in our community face a slew of new challenges due to the pandemic situation. Procrastination, diminished collaboration, and overworking have emerged as challenges. Study shows that remote employees work longer hours and spend more time communicating. Approximately 70% of remote professionals now work on weekends, and 45% regularly work more hours during the week than they had before.
 
 
 ## :iphone: What it does
